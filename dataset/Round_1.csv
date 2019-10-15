@@ -1,0 +1,91 @@
+Depression,Self-harm,Eye gaze,Distress (0) vs. Suicide (1),Age,Short-term/Chronic distress,Hopelessness,Impulsiveness,Anhedonia,Lability,Guilt
+4,0,towards camera,0,middle,not distressed,0,0,0,0,0
+1,0,towards camera,0,young,short term distress,0,0,0,0,0
+4,2,towards camera,1,young,chronic distress,0,0,0,0,0
+5,0,towards camera,0,young,short term distress,1,0,0,0,0
+5,3,towards camera,1,middle,chronic distress,1,0,0,0,0
+3,0,towards camera,0,middle,short term distress,0,0,0,0,0
+4,1,towards camera,1,middle,chronic distress,0,0,0,0,0
+5,2,towards camera,1,middle,chronic distress,1,1,0,0,0
+1,0,towards camera,0,young,short term distress,0,0,0,0,0
+5,1,towards camera,1,middle,chronic distress,1,0,0,1,0
+4,0,away,0,young,short term distress,0,0,0,0,0
+3,0,towards camera,0,young,long term distress,0,1,0,0,0
+4,1,towards camera,0,young,long term distress,0,0,1,0,0
+4,0,towards camera,0,middle,short term distress,0,0,0,0,1
+0,0,towards camera,0,young,short term distress,0,0,0,0,0
+5,0,towards camera,1,middle,chronic distress,1,0,0,1,0
+4,0,towards camera,0,middle,short term distress,0,0,0,0,0
+5,1,towards camera,1,young,short term distress,1,0,0,0,0
+3,0,away,0,young,short term distress,0,0,0,0,1
+5,1,towards camera,1,middle,chronic distress,1,1,0,0,1
+4,1,away,1,young,short term distress,1,0,1,0,0
+5,1,towards camera,1,young,short term distress,1,1,0,1,0
+2,0,towards camera,0,young,short term distress,0,0,0,0,0
+0,1,towards camera,1,young,short term distress,0,0,0,1,0
+3,0,away,0,young,short term distress,0,0,0,0,0
+5,0,towards camera,0,young,short term distress,0,0,0,0,0
+3,0,away,0,middle,short term distress,0,0,0,0,0
+2,0,towards camera,0,middle,short term distress,0,0,0,0,0
+3,0,away,0,young,short term distress,0,0,0,0,0
+4,3,away,1,young,chronic distress,1,1,1,0,0
+4,1,away,1,young,chronic distress,1,0,1,0,0
+5,1,towards camera,1,middle,chronic distress,1,1,0,0,0
+4,0,towards camera,0,middle,short term distress,0,1,0,0,0
+5,1,towards camera,1,middle,short term distress,1,0,0,0,1
+3,0,towards camera,0,middle,short term distress,0,0,0,0,0
+5,1,towards camera,1,middle,chronic distress,0,0,0,0,0
+4,0,towards camera,0,middle,short term distress,0,0,0,0,0
+3,0,towards camera,0,young,short term distress,0,0,0,0,0
+4,0,towards camera,0,young,short term distress,0,0,0,0,0
+3,0,towards camera,0,middle,short term distress,0,0,0,0,0
+5,1,towards camera,1,young,chronic distress,1,0,0,0,0
+4,0,towards camera,0,middle,chronic distress,0,0,0,1,1
+4,0,away,0,young,short term distress,1,0,0,0,0
+1,0,towards camera,0,middle,short term distress,0,0,0,0,0
+3,1,away,0,young,short term distress,0,0,0,0,0
+1,0,away,0,middle,short term distress,0,0,0,0,1
+1,0,towards camera,0,young,short term distress,0,0,0,0,0
+5,2,towards camera,0,young,chronic distress,0,0,0,0,0
+3,0,towards camera,0,young,chronic distress,0,0,0,0,0
+5,3,away,1,middle,chronic distress,1,0,0,0,0
+3,0,away,0,young,short term distress,0,0,0,0,0
+4,0,away,0,young,chronic distress,0,0,0,1,1
+4,1,towards camera,1,young,short term distress,1,0,1,0,0
+4,0,towards camera,0,middle,short term distress,0,0,0,0,0
+3,0,towards camera,0,middle,short term distress,0,0,0,0,1
+5,1,towards camera,1,middle,chronic distress,1,1,0,0,0
+5,1,towards camera,1,middle,chronic distress,1,0,0,0,0
+5,0,towards camera,0,young,chronic distress,1,0,0,0,0
+5,0,towards camera,0,middle,chronic distress,1,0,0,0,1
+3,0,towards camera,0,middle,chronic distress,0,0,0,0,0
+5,1,towards camera,1,young,short term distress,0,0,0,0,0
+5,1,towards camera,1,young,chronic distress,1,0,0,0,0
+5,1,towards camera,1,middle,chronic distress,1,0,1,1,0
+2,3,towards camera,0,middle,short term distress,0,0,0,0,0
+5,0,towards camera,0,middle,short term distress,1,0,0,0,0
+2,0,towards camera,0,young,no distress,0,0,0,0,0
+5,1,towards camera,1,young,short term distress,1,0,0,0,1
+5,0,towards camera,0,young,chronic distress,0,0,0,0,0
+4,0,towards camera,0,young,short term distress,0,0,0,0,0
+3,0,towards camera,0,young,short term distress,0,0,0,0,0
+4,3,away,1,young,chronic distress,1,0,1,0,0
+5,1,away,1,young,chronic distress,1,0,1,0,1
+5,0,towards camera,0,young,short term distress,0,0,0,0,0
+3,0,towards camera,0,young,short term distress,0,0,0,0,0
+4,0,away,0,young,short term distress,0,0,0,1,0
+4,2,away,0,middle,short term distress,0,0,0,0,0
+5,2,towards camera,1,young,chronic distress,0,1,0,0,0
+3,0,away,0,young,short term distress,0,0,0,0,1
+4,0,towards camera,0,young,short term distress,0,0,0,0,0
+2,0,towards camera,0,middle,short term distress,0,0,0,0,0
+3,0,towards camera,0,young,short term distress,0,0,0,0,0
+4,1,away,0,young,chronic distress,0,0,0,0,0
+5,0,away,0,young,short term distress,1,0,0,0,0
+4,0,towards camera,0,young,short term distress,0,0,0,0,0
+4,3,towards camera,0,young,short term distress,0,0,0,0,0
+5,0,away,0,young,short term distress,0,0,0,0,0
+3,0,towards camera,0,middle,short term distress,0,0,0,0,0
+3,1,towards camera,1,young,short term distress,0,0,0,0,0
+2,0,towards camera,0,young,short term distress,0,0,0,0,0
+2,0,towards camera,0,middle,chronic distress,0,0,0,0,0
