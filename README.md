@@ -8,6 +8,9 @@ https://dl.acm.org/citation.cfm?id=3340555&picked=prox
 ### Web Page
 https://ankitshah009.github.io/multimodal_markers_for_suicide_intent.html
 
+### Poster Presentation
+https://docs.google.com/presentation/d/102M_uFdNWIz7cQ8SKwpHrJyTjALOK1R3092U9j35kXs/edit?usp=sharing
+
 ## Citation
 ```
 @inproceedings{Shah:2019:MBM:3340555.3353718,
